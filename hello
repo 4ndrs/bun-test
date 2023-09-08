@@ -1,0 +1,6 @@
+#!/usr/bin/env bun
+/* vim: set filetype=typescript : */
+
+import { message } from "./some-module";
+
+console.log(message);
